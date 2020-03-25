@@ -46,3 +46,12 @@ NoSQL: MongoDB, CouchDB, etc
 ### Cabeçalho
 
 request.headers ⇒ Localização, Usuário, enfim
+
+
+------------------
+
+# aula 3 
+
+Quando um HTML é escrito dentro de um arquivo javascript é um JSX
+
+Componente: É uma função que retorna uma ação dentro do javascript
